@@ -160,3 +160,8 @@ Your `~/Projects/` folder and its contents are left untouched.
 ## 📄 License
 
 MIT — do whatever you want with it.
+
+## Discord Link 
+https://discord.gg/UqQYbNjsN6
+
+Thanks for view this page
