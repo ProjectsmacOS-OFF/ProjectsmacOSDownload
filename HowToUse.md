@@ -122,14 +122,14 @@ This uses [`fileicon`](https://github.com/mklement0/fileicon), a small CLI tool.
 brew install fileicon
 
 # Apply all icons from the icons/ folder (run from the repo root)
-fileicon set ~/Projects/_inbox  icons/_inbox.icns
-fileicon set ~/Projects/Coding  icons/Coding.icns
-fileicon set ~/Projects/Data    icons/Data.icns
-fileicon set ~/Projects/Design  icons/Design.icns
-fileicon set ~/Projects/Docs    icons/Docs.icns
-fileicon set ~/Projects/Media   icons/Media.icns
-fileicon set ~/Projects/Notes   icons/Notes.icns
-fileicon set ~/Projects/Web     icons/Web.icns
+fileicon set ~/Projects/_inbox  icons/Projects.icns
+fileicon set ~/Projects/Coding  icons/Projects.icns
+fileicon set ~/Projects/Data    icons/Projects.icns
+fileicon set ~/Projects/Design  icons/Projects.icns
+fileicon set ~/Projects/Docs    icons/Projects.icns
+fileicon set ~/Projects/Media   icons/Projects.icns
+fileicon set ~/Projects/Notes   icons/Projects.icns
+fileicon set ~/Projects/Web     icons/Projects.icns
 ```
 
 ### Removing an icon
