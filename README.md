@@ -1,4 +1,4 @@
-# 📁 Projects Auto-Classifier
+# 📁 ProjectsmacOS
 
 A lightweight macOS file automation system that **automatically sorts files dropped into `~/Projects`** into categorized subfolders — no app, no GUI, just shell scripts and a background daemon.
 
@@ -50,8 +50,8 @@ You can also trigger a manual sort at any time with `projects-sort`, or preview 
 
 ```bash
 # 1. Clone or download this repo
-git clone https://github.com/YOUR_USERNAME/projects-classifier.git
-cd projects-classifier
+git clone https://github.com/headypaint30-dotcom/ProjectsmacOSDownload.git
+cd ProjectsmacOSDownload
 
 # 2. Run the installer
 bash install.sh
