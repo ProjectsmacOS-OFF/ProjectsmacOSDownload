@@ -50,7 +50,7 @@ You can also trigger a manual sort at any time with `projects-sort`, or preview 
 
 ```bash
 # 1. Clone or download this repo
-git clone https://github.com/headypaint30-dotcom/ProjectsmacOSDownload.git
+git clone https://github.com/ProjectsmacOS-OFF/ProjectsmacOSDownload.git
 cd ProjectsmacOSDownload
 
 # 2. Run the installer
