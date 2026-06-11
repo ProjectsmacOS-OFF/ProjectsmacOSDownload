@@ -115,6 +115,12 @@ projects-watch-stop && projects-watch-start
 
 The `icons/` folder contains custom `.icns` files for each category. Applying them is optional but gives your `~/Projects` a polished look in Finder.
 
+Don't start the script before modifying the icns folder because the script delete the new icns.
+
+If you have activated the script before modifying the icns just desactivate : 
+```bash
+projects-watch-stop && projects-watch-start
+```
 See [HowToUse.md](HowToUse.md) for the full step-by-step guide (Finder method + terminal method).
 
 ---
