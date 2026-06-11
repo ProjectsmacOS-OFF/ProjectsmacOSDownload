@@ -117,7 +117,7 @@ The `icons/` folder contains custom `.icns` files for each category. Applying th
 
 Don't start the script before modifying the icns folder because the script delete the new icns.
 
-If you have activated the script before modifying the icns just desactivate : 
+If you have activated the script before modifying the icns just desactivate and reactivate : 
 ```bash
 projects-watch-stop && projects-watch-start
 ```
