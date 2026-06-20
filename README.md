@@ -1,3 +1,5 @@
+(view the [Notes file](https://github.com/ProjectsmacOS-OFF/ProjectsmacOSDownload/blob/main/notes.md))
+
 # 📁 ProjectsmacOS
 
 A lightweight macOS file automation system that **automatically sorts files dropped into `~/Projects`** into categorized subfolders — no app, no GUI, just shell scripts and a background daemon.
