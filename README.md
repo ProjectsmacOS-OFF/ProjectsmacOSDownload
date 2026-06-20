@@ -58,6 +58,30 @@ bash install.sh
 
 # 3. Reload your shell
 source ~/.zshrc
+
+
+```
+
+make you sure you have fswatch installed :
+```bash
+# 1. Install homebrew if not installed
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+# 2. install fswatch
+brew install fswatch
+
+# 3. verify
+which fswatch
+fswatch --version
+
+# 4. Cd in your projects (~/.projects-system)
+cd ~/.projects-system
+
+# 5. If the script is not functionnal, launch a terminal and write that
+cd ~/.projects-system
+./watch.sh
+
+# Srry the text of the script after loaded ./watch.sh is in french ._.
 ```
 
 The installer will:
@@ -249,6 +273,28 @@ bash installmf.sh
 # 3. Reload your shell
 source ~/.zshrc
 ```
+make you sure you have fswatch installed :
+```bash
+# 1. Install homebrew if not installed
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+# 2. install fswatch
+brew install fswatch
+
+# 3. verify
+which fswatch
+fswatch --version
+
+# 4. Cd in your projects (~/.projects-system)
+cd ~/.projects-system
+
+# 5. If the script is not functionnal, launch a terminal and write that
+cd ~/.projects-system
+./watchmf.sh
+
+# Srry the text of the script after loaded ./watchmf.sh is in french ._.
+```
+
 
 The installer will:
 
