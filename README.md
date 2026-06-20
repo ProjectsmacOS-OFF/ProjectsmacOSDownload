@@ -51,7 +51,7 @@ You can also trigger a manual sort at any time with `projects-sort`, or preview 
 ```bash
 # 1. Clone or download this repo
 git clone https://github.com/ProjectsmacOS-OFF/ProjectsmacOSDownload.git
-cd ProjectsmacOSDownload
+cd ProjectsmacOSDownload/.projects-system
 
 # 2. Run the installer
 bash install.sh
@@ -241,7 +241,7 @@ You can also trigger a manual sort at any time with `projects-sort`, preview wit
 ```bash
 # 1. Clone the repo
 git clone https://github.com/ProjectsmacOS-OFF/ProjectsmacOSDownload.git
-cd ProjectsmacOSDownload
+cd ProjectsmacOSDownload/.projects-system
 
 # 2. Run the installer
 bash installmf.sh
